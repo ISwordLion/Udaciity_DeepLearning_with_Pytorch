@@ -1,2 +1,2 @@
-# Udaciity_DeepLearning_with_Pytorch
+# Udacity_DeepLearning_with_Pytorch
 Implementing the Gradient Descent Algorithm
